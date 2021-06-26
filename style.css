@@ -1,0 +1,26 @@
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: baseline;
+    background-color: red;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    font-size: 15px;
+}
+
+h1{
+  color: aliceblue;  
+}
+
+.header{
+    display:flex;
+    background-color:black;
+    
+}
+
+.footer{
+    background-color: black;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
